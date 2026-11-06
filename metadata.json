@@ -1,0 +1,8 @@
+{
+  "name": "CORE TEAM -- Online Hackathon",
+  "description": "Innovate. Build. Win! 3 Top Winners + 1 MVP Champion. Submit your idea now for n8n Pro, Gemini Pro, domains, BOOKStore PRO, and CORE TEAM positions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
